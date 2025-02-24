@@ -13,7 +13,7 @@ This repository implements a Reduced VGG model on the CIFAR100 dataset with PyTo
 - **src/train.py**: Fine-tuning (fixed-rank).
 - **src/compress.py**: Functions to apply SVD and compress the model.
 - **weights/best_model.pth**: Weights for trained full model.
-- **main.py/**: Example of usage: import weights; apply SVD and show results.
+- **main.py**: Example of usage: import weights; apply SVD and show results.
 
 
 ## Requirements
